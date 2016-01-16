@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IR Alarm</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ActionRecordedString">Action recorded</string>
+    <string name="ActionNotRecordedString">Action not recorded</string>
+</resources>
